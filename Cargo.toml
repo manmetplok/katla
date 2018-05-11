@@ -1,0 +1,7 @@
+[package]
+name = "katla"
+version = "0.1.0"
+authors = ["Jorrit Everts <jorrit@plok.org>"]
+
+[dependencies]
+wayland-server = { version = "0.20.5" }
